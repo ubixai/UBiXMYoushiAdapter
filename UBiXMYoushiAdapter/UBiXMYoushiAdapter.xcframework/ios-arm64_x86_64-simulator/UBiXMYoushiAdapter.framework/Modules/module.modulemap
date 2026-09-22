@@ -1,0 +1,6 @@
+framework module UBiXMYoushiAdapter {
+  umbrella header "UBiXMYoushiAdapter-umbrella.h"
+
+  export *
+  module * { export * }
+}
